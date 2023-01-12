@@ -38,16 +38,17 @@ Number Validation
 
 ### Featured Section
 
-```html
-```
-
-```css
-```
+Regular Expression
 
 ```js
+  let bracketCheck = /[(]\d{3}[)]/;
+  let checkBeginning = /^([(]\d{3}[)])/;
+  let otherCharsCheck = /^[-]|[^\s-\d)(]/;
 ```
 
 ### Useful resources
+
+- [Regex](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) - Patterns used to match character combinations in strings.
 
 - [Font Awesome CDN](https://cdnjs.com/libraries/font-awesome) - Font Awesome CDN Library
 
