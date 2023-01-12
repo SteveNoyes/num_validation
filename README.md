@@ -32,6 +32,7 @@ Number Validation
 
 - HTML5 markup
 - CSS  
+- Flexbox
 - Vanilla JavaScript
 
 ### Featured Section
