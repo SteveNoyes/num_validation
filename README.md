@@ -49,11 +49,9 @@ Number Validation
 
 ### Useful resources
 
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+- [Font Awesome CDN](https://cdnjs.com/libraries/font-awesome) - Font Awesome CDN Library
 
 - [Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) - Sets all of the explicit and implicit grid properties in a single declaration.
-
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
 
 ## Author
 
