@@ -1,0 +1,46 @@
+/* General Style */
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: monospace;
+  color: #fff;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+
+/* Buttons */
+
+.buttons {
+  grid-row: 3 / 4;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  align-items: center;
+  padding: 0 10%;
+  margin-bottom: 10px;
+}
+
+.button {
+  height: 52px;
+  width: 52px;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #444;
+  font-size: 22px;
+  font-weight: 300;
+  transition: all 0.2s;
+}

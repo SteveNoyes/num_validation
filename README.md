@@ -33,6 +33,7 @@ Number Validation
 - HTML5 markup
 - CSS  
 - Flexbox
+- Grid
 - Vanilla JavaScript
 
 ### Featured Section
@@ -50,7 +51,7 @@ Number Validation
 
 - [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
 
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+- [Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) - Sets all of the explicit and implicit grid properties in a single declaration.
 
 - [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
 
