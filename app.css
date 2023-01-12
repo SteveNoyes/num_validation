@@ -87,3 +87,11 @@ html {
   font-weight: 300;
   transition: all 0.2s;
 }
+
+.c {
+  height: 5px;
+  width: 5px;
+  margin: 1px;
+  background-color: royalblue;
+  border-radius: 50%;
+}
