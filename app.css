@@ -132,6 +132,34 @@ html {
   transition: all 0.2s;
 }
 
+.button:hover,
+.button:active {
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.button.phone-button:hover,
+.button.phone-button:active {
+  background: rgba(50, 205, 50, 0.8);
+}
+
+.button span {
+  font-size: 8px;
+  letter-spacing: 2px;
+  padding-left: 2px;
+}
+
+.button .fa-asterisk {
+  font-size: 16px;
+}
+
+.button.phone-button {
+  grid-column: 2 / 3;
+  background-color: limegreen;
+}
+
+
+
 .c {
   height: 5px;
   width: 5px;
