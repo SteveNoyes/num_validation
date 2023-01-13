@@ -15,11 +15,11 @@ Number Validation
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Static Image](./static.png)
 
-![](./screenshot.jpg)
+![Invalid Input](./invalid.png)
 
-![](./screenshot.jpg)
+![Valid Input](./valid.png)
 
 ### Links
 
