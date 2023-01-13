@@ -57,6 +57,14 @@ function displayResults(input) {
     resultsDiv.innerHTML = 'Invalid phone number!';}
 }
 
+// Enter Submit
+
+input.addEventListener('keydown', (e) => {
+  if (e.keyCode === 13) {
+      displayResults(e.target.value);
+  }
+});
+
 // Phone Icon to Submit
 
 phoneBtn.addEventListener('click', () => {
