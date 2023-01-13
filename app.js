@@ -56,3 +56,9 @@ function displayResults(input) {
   else {
     resultsDiv.innerHTML = 'Invalid phone number!';}
 }
+
+// Phone Icon to Submit
+
+phoneBtn.addEventListener('click', () => {
+  displayResults(input.value);
+});
