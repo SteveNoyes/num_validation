@@ -46,3 +46,13 @@ buttons.forEach((button) => {
     input.value += number;
   });
 });
+
+// Display Input Results
+
+function displayResults(input) {
+  let answer = mobileCheck(input);
+  if (answer) {
+    resultsDiv.innerHTML = 'Valid phone number!';}
+  else {
+    resultsDiv.innerHTML = 'Invalid phone number!';}
+}
