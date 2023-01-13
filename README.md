@@ -23,7 +23,7 @@ Number Validation
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://your-solution-url.com)
+- Solution URL: [GitHub Repo](https://github.com/SteveNoyes/num_validation)
 - Live Site URL: [GitHub Pages](https://pages.github.com/)
 
 ## My process
