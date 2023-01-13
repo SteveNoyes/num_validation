@@ -24,7 +24,7 @@ Number Validation
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/SteveNoyes/num_validation)
-- Live Site URL: [GitHub Pages](https://pages.github.com/)
+- Live Site URL: [GitHub Pages](https://stevenoyes.github.io/num_validation/)
 
 ## My process
 
